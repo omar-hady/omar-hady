@@ -39,7 +39,7 @@
 
 ### 📫 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/omarhady" target="_blank">
+  <a href="www.linkedin.com/in/omarhadyalnajjar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:omarhadyabass@gmail.com">
