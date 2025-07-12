@@ -28,15 +28,6 @@
 - 🧬 Automation scripts for recon
 
 ---
-
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
-
 ### 📫 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/omarhadyalnajjar/" target="_blank">
