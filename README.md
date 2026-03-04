@@ -59,7 +59,7 @@ Currently focusing on:
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-hady&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=omar-hady&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
