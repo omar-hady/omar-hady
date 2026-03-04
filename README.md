@@ -59,10 +59,6 @@ Currently focusing on:
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omar-hady&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-hady&theme=radical"/>
 </p>
 
