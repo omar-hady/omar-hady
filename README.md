@@ -63,7 +63,7 @@ Currently focusing on:
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omarhadyalnajjar&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-hady&theme=radical"/>
 </p>
 
 ---
@@ -89,5 +89,5 @@ Currently focusing on:
 ---
 
 <p align="center">
-⚡ "Security is not a product — it's a process."
+⚡ "Security is not a product - it's a process."
 </p>
