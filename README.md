@@ -19,7 +19,6 @@
 Currently focusing on:
 
 - SIEM Monitoring (Wazuh / Splunk)
-- Malware Analysis
 - Web Application Security
 - Threat Detection & Blue Team Operations
 
