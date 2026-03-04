@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Student | SOC & Incident Response | Web Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;SOC+Analyst+in+Training;Web+Security+Researcher;Linux+Enthusiast;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73C3C&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;SOC+Analyst+in+Training;Web+Security+Researcher;Linux+Enthusiast;Always+Learning+Something+New" />
 </p>
 
 ---
@@ -53,23 +53,6 @@ Currently focusing on:
 <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
 </p>
-
----
-
-# 🚧 Current Projects
-
-🔬 **HashEye**  
-Multi-layer malware detection system.
-
-🛡️ **LinkGuardian**  
-Phishing URL detection system using Python & Flask.
-
-🔍 **Security Labs**  
-Practicing Web Security through labs like:
-
-- DVWA
-- XVWA
-- PortSwigger Web Security Academy
 
 ---
 
